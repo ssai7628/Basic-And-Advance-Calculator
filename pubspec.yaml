@@ -49,7 +49,7 @@ dependencies:
   path: ^1.9.1
   
   # Math expressions
-  math_expressions: ^2.6.0
+  math_expressions: ^3.1.0
   
   # URL launcher for GitHub repo
   url_launcher: ^6.3.0
